@@ -138,3 +138,11 @@ npm test
 ## License
 
 MIT
+
+
+<!-- codex-pixel-art -->
+## Pixel art
+
+![Pixel art for caterpillar](assets/pixel-art.svg)
+
+A small visual signature for this repository.
